@@ -1,0 +1,8 @@
+.plastic/
+Library/
+Logs/
+Packages/
+UserSettings/
+.vsconfig
+GameOff-2023.sln
+ignore.conf
